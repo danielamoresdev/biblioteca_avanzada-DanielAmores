@@ -5,13 +5,6 @@ from time import sleep
 clear = lambda: os.system('clear')
 bib = Biblioteca()
 
-bib.cargar_datos()
-print(bib.agregar_libro("asdasdad", "Autor"))
-print(bib.agregar_libro("asdasdad", "Autor"))
-print(bib.registrar_usuario("Danie", "Lector"))
-print(bib.registrar_usuario("Danie", "Lector"))
-bib.mostrar_libros_disponibles()
-
 while True:
     mostrar_menu()
     opcion = input("Introduce la opción que desea > ")
