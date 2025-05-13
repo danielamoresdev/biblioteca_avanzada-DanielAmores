@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Cien a\u00f1os de soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "prestado": 0
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "prestado": 0
+    },
+    {
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exup\u00e9ry",
+        "prestado": 0
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "prestado": 0
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "prestado": 0
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fi\u00f3dor Dostoyevski",
+        "prestado": 0
+    },
+    {
+        "titulo": "Rayuela",
+        "autor": "Julio Cort\u00e1zar",
+        "prestado": 0
+    },
+    {
+        "titulo": "Los miserables",
+        "autor": "Victor Hugo",
+        "prestado": 0
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "JK Rowling",
+        "prestado": 0
+    },
+    {
+        "titulo": "asdasdad",
+        "augittor": "Autor",
+        "prestado": 0
+    }
+]

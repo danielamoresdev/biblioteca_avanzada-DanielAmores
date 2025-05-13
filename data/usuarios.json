@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Juan P\u00e9rez",
+        "rol": "Lector",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Mar\u00eda L\u00f3pez",
+        "rol": "Administrador",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Carlos Fern\u00e1ndez",
+        "rol": "Lector",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Ana G\u00f3mez",
+        "rol": "Administrador",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Luis Mart\u00ednez",
+        "rol": "Lector",
+        "libros_prestados": []
+    }
+]
